@@ -2,8 +2,8 @@
 
 ## Observations:
 
-This project aims to answer the question "What's the weather like as we approach the equator?"  Through the analysis in this project, we observed that:
-* Temperature is the warmest near the equator, specifically between -20 and 20 degrees. The lowest temperatures have a latitude furthest from the equator (-60 to -40 and 60 to 80).
+This project aims to answer the question "What's the weather like as we approach the equator?"  Through the analysis in this challenge, we observed that:
+* Temperature is the warmest near the equator, specifically between -20 and 20 degrees. The lowest (coolest) temperatures have a latitude furthest from the equator (-60 to -40 and 60 to 80).
 * Latitude does not appear to have an impact on humidity, cloudiness, and wind speed.
 * The higest correlation in the dataset is the correlation between latitude and maximum temperature. In the northern hemisphere, the correlation coefficient of -0.84 indicates a good negative relationship between latitude and max temperature. The temperature is higher around the equator and as you move north away from the equator, the temperature goes down. In the southern hemisphere, the correlation coefficient of 0.72 indicates a good relationship between latitude and max temperature - but it is not as high as the correlation in the northern hemisphere. The temperature tends to be higher around the equator, but in the southern hemisphere there is some variability between -20 and -10 latitude where there are cities with higher temperatures than at the equator.
 
